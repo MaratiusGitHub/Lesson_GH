@@ -1,6 +1,13 @@
-## Основные команды Git
+## Конспект по Git
+1. Настройка Git
 
+* **git config --global user.name "name"** - вводим имя пользователя
+* **git cionfig --global user.email "mmm@mail.com"** - вводим свой эл. почту
+
+2. Основные команды git
 * **git init** - инициализация репозитория
+* **git status** - cтатус git
+* **git version** - версия git
 * **git add '.\Git lesson.md** - добавить файл в git
 
     *перед выполнением команды **git add**, обязательно сохранить изменения кода или включить avto save*
@@ -13,3 +20,4 @@
 * **git checkout master** - вернуться к актуальной версии    
 
 ![Have a nice day](123.jpg)
+
