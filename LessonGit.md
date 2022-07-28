@@ -2,7 +2,7 @@
 1. Настройка Git
 
 * **git config --global user.name "name"** - вводим имя пользователя
-* **git cionfig --global user.email "mmm@mail.com"** - вводим свой эл. почту
+* **git config --global user.email "mmm@mail.com"** - вводим свой эл. почту
 
 2. Основные команды git
 * **git init** - инициализация репозитория
