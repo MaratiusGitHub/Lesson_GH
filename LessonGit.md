@@ -11,3 +11,5 @@
 * **git log --oneline** - сокращенный вариант просмотра событий
 * **git checkout xxxxx** - вернуться к сохраненной версии под номером xxxxx
 * **git checkout master** - вернуться к актуальной версии    
+
+![Have a nice day](123.jpg)
