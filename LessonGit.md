@@ -2,7 +2,7 @@
 1. Настройка Git
 
 * **git config --global user.name "name"** - вводим имя пользователя
-* **git config --global user.email "mmm@mail.com"** - вводим свой эл. почту
+* **git config --global user.email "mmm@mail.com"** - вводим свою эл. почту
 
 2. Основные команды git
 * **git init** - инициализация репозитория
@@ -19,6 +19,10 @@
 * **git checkout xxxxx** - вернуться к сохраненной версии под номером xxxxx
 * **git checkout master** - вернуться к актуальной версии    
 * **git diff** - увидеть разницу между текущим файлом и закоммиченным
+* __git branch__ - просмотр веток, * - указывает ветку на которой мы сейчас находимся
+* __git branch new_1__ - создать новую ветку New_1
+* __git checkout master__ - перейти на ветку new_1
+* __git merge new_1__ - добавить ветку new_1, на ту ветку в которой находишься
 
 ## Инструкция для работы с Markdown
 
